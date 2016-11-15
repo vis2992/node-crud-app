@@ -1,0 +1,22 @@
+{
+  "name": "node-crud-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vis2992/node-crud-app.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vis2992/node-crud-app/issues"
+  },
+  "homepage": "https://github.com/vis2992/node-crud-app#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
